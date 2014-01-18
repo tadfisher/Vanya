@@ -12,8 +12,9 @@
     "media": [
       {
 	"type": "png",
-	"name": "FACE",
-	"file": "face.png"
+	"name": "IMAGE_FACE",
+	"file": "images/face.png"
+      }
     ]
   }
 }
