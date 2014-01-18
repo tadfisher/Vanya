@@ -1,0 +1,17 @@
+{
+  "uuid": "d4e92304-bffc-43af-9865-482d6a58f406",
+  "shortName": "Vanya",
+  "longName": "Vanya",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
